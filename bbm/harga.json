@@ -27,7 +27,8 @@
         "list": {
           "ron90": { "name": "Revvo 90", "t": 12000 },
           "ron92": { "name": "Revvo 92", "t": 14000 },
-          "ron95": { "name": "Revvo 95", "t": 15000 }
+          "ron95": { "name": "Revvo 95", "t": 15000 },
+          "cn51": {"name": "Diesel Primus Plus", "t": 14060}
         }
       },
       "bp": {
