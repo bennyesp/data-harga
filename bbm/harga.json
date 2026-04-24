@@ -1,5 +1,5 @@
 {
-  "update": "2026-04-01T11:00:00",
+  "update": "2026-04-24T23:15:00",
   "provider": {
     "pertamina": {
       "name": "Pertamina",
@@ -18,7 +18,7 @@
         },
         "ron98": {
           "name": "Pertamax Turbo",
-          "t": 13100
+          "t": 19400
         },
         "cn48": {
           "name": "Biosolar",
@@ -26,11 +26,11 @@
         },
         "cn51": {
           "name": "Dexlite",
-          "t": 14200
+          "t": 23600
         },
         "cn53": {
           "name": "Pertamina Dex",
-          "t": 14500
+          "t": 23900
         }
       }
     },
@@ -85,7 +85,7 @@
         },
         "cn53": {
           "name": "BP Ultimate Diesel",
-          "t": 14620
+          "t": 25560
         }
       }
     }
